@@ -1,7 +1,7 @@
 Hi 👋 My name is Nischal Khakda
 ===============================
 
-Front-end Developer | Networking | Learning&Growing | CybeSec Enthusiast
+Front-end Developer | Networking | Learning&Growing | CyberSec Enthusiast
 -----------------------------------------------------------
 
 I've been engaged in IT field for almost 5 years switching sectors while growing and trying out new adventure as i dive in. Learning and growing is what i believe in. I was pretty much engaged in non coding part of the IT. and as i grew i have picked a hobby in coding. Starting to learn from basic and leaning towards to grow more advance....🎶🌱🎯
