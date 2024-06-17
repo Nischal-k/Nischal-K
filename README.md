@@ -4,7 +4,7 @@ Hi 👋 My name is Nischal Khakda
 Front-end Developer | Networking | Learning&Growing | CyberSec Enthusiast
 -----------------------------------------------------------
 
-I've been engaged in IT field for almost 5 years switching sectors while growing and trying out new adventure as i dive in. Learning and growing is what i believe in. I was pretty much engaged in non coding part of the IT. and as i grew i have picked a hobby in coding. Starting to learn from basic and leaning towards to grow more advance....🎶🌱🎯
+During my first year in the IT field, I've had the opportunity to dive into various aspects of technology. From troubleshooting network issues to exploring cybersecurity measures, every day brings new challenges and learning experiences. Learning and growing is what i believe in. I was pretty much engaged in non coding part of the IT and as i grew i have picked a hobby in coding. Starting to learn from basic and leaning to grow more advance....🎶🌱🎯
 
 *   🌍  I'm based in Kathmandu, Nepal
 *   ✉️  You can contact me at [nixchool@gmail.com](mailto:nixchool@gmail.com)
