@@ -8,7 +8,7 @@ During my first year in the IT field, I've had the opportunity to dive into vari
 
 *   🌍  I'm based in Kathmandu, Nepal
 *   ✉️  You can contact me at [nixchool@gmail.com](mailto:nixchool@gmail.com)
-*   🎯  visit my portfolio on https://github.com/Nischal-k/nischal.github.io
+*   🎯  visit my portfolio on (https://nischal-k.github.io/nischal.github.io/)
 
 <h2>Skills</h2>
 <p align="left">
