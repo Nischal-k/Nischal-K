@@ -33,6 +33,11 @@ During my first year in the IT field, I've had the opportunity to dive into vari
 <a href="https://medium.com/@nixchool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nixchool" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
 </p>
-<h2>Badge</h2>
-                      <a
-                      href="http://www.github.com/Nischal-k"><img src="https://github-readme-stats.vercel.app/api?username=Nischal-k&show_icons=true&hide=contribs&title_color=a855f7&text_color=14b8a6&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="Nischal-k's GitHub stats" /></a>
+📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nischal-k&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nischal-k&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nischal-k&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Nischal-k&icon=0&color=0)](https://visitcount.itsvg.in)
+                   
