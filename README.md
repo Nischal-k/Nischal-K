@@ -16,23 +16,15 @@ During my first year in the IT field, I've had the opportunity to dive into vari
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
 </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
 </a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
 </a>
-<a href="https://www.microsoft.com/en-us/securityengineering/bluehat" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Blue_Hat_Microsoft_Logo.png" width="36" height="36" alt="Blue Hat" />
-</a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" />
-</a>
-<a href="https://portswigger.net/" target="_blank" rel="noreferrer">
-    <img src="https://portswigger.net/cms/images/60/75/bd0a-squarelogo.png" width="36" height="36" alt="PortSwigger" />
-</a>
-<a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/cisco-4.svg" width="36" height="36" alt="Cisco Networking" />
 </a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
@@ -50,11 +42,12 @@ During my first year in the IT field, I've had the opportunity to dive into vari
                     </a>
                       <a href="https://www.github.com/Nischal-k" target="_blank" rel="noreferrer">
                     <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
                     </picture>
-                    </a>
+                    </a> <a href="https://linkedin.com/in/https://www.linkedin.com/in/nischal-khadka-a992a6237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nischal-khadka-a992a6237/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/?newreg=200394524f6f49f7ae4f7d6b065e8955" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/?newreg=200394524f6f49f7ae4f7d6b065e8955" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@nixchool/cookies-and-session-bb45ce1e7f6d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@nixchool/cookies-and-session-bb45ce1e7f6d" height="30" width="40" /></a>
                       <a href="http://www.instagram.com/nis_chal____/" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
