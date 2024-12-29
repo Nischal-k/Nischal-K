@@ -34,5 +34,8 @@ During my first year in the IT field, I've had the opportunity to dive into vari
 <a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
 </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nischal-k&show_icons=true&locale=en&layout=compact" alt="nischal-k" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nischal-k&" alt="nischal-k" /></p>
 
 
