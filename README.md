@@ -1,7 +1,7 @@
 Hi 👋 My name is Nischal Khakda
 ===============================
 
-Front-end Developer | Networking | Learning&Growing | CyberSec Enthusiast
+ | SOC Analyst |BlueTeam | Learning&Growing | CyberSec Enthusiast
 -----------------------------------------------------------
 
 During my first year in the IT field, I've had the opportunity to dive into various aspects of technology. From troubleshooting network issues to exploring cybersecurity measures, every day brings new challenges and learning experiences. Learning and growing is what i believe in. I was pretty much engaged in non coding part of the IT and as i grew i have picked a hobby in coding. Starting to learn from basic and leaning to grow more advance....🎶🌱🎯
